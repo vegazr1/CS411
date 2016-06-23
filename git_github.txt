@@ -1,0 +1,31 @@
+git- distribited version control system.\
+	-runs on the terminal
+	- keeps track of the files and modifications to the file in the local repository
+
+github- hosting the repositories.
+	-coode sharing and publishing service the uses git.
+	-has a collection of repository from other developer.
+	-has clone, pull request and fork features
+
+tyupes
+centralize
+distributed
+
+version control system- is a....
+
+fork - A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the 		original project.
+	-A fork is a personal copy of another user's repository that lives on your account. Forks allow you to freely make changes 	to a project without affecting the original. Forks remain attached to the original, allowing you to submit a pull request 		to the original's author to update with your changes. You can also keep your fork up to date by pulling in updates from 		the original.
+push - Pull requests let you tell others about changes you've pushed to a repository on GitHub. Once a pull request is sent, 			interested parties can review the set of changes, discuss potential modifications, and even push follow-up commits if 				necessary
+Commit-A commit, or "revision", is an individual change to a file (or set of files). It's like when you save a file, except with 		Git, every time you save it creates a unique ID (a.k.a. the "SHA" or "hash") that allows you to keep record of what 		
+	changes were made when and by who. Commits usually contain a commit message which is a brief description of what changes 		were made.
+Pull-Pull refers to when you are fetching in changes and merging them. For instance, if someone has edited the remote file you're 		both working on, you'll want to pull in those changes to your local copy so that it's up to date.
+
+what is git?
+
+what is github?
+
+How to fork?
+
+what is the difference between git and githud?
+
+is it pissible to push repositories in github? why?
